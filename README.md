@@ -3,12 +3,6 @@
 Electronics and Communication Engineering Undergraduate  
 Coimbatore, Tamil Nadu, India  
 
-Email: sanjivkrishna05@gmail.com  
-LinkedIn: https://linkedin.com/in/sanjiv-krishna-r-238588292  
-GitHub: https://github.com/your-username  
-
----
-
 ## ABOUT ME
 
 • Electronics and Communication Engineering undergraduate  
