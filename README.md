@@ -4,14 +4,22 @@ Electronics and Communication Engineering Undergraduate
 Coimbatore, Tamil Nadu, India
 
 Email: sanjivkrishna05@gmail.com
+
 LinkedIn: https://linkedin.com/in/sanjiv-krishna-r-238588292
+
 GitHub: https://github.com/your-username
 
-About Me
+ABOUT ME
 
-I am an Electronics and Communication Engineering student with a strong foundation in core electronics concepts and programming fundamentals. I have experience in Java and Python, along with beginner-level knowledge of SQL. Currently, I am exploring VLSI design and strengthening my understanding of digital electronics, embedded systems, and communication technologies. I enjoy problem-solving and building practical, real-world solutions through system design.
+• Electronics and Communication Engineering undergraduate
+• Strong foundation in core electronics concepts
+• Experience in Java and Python programming
+• Beginner-level knowledge of SQL
+• Exploring VLSI design and digital electronics
+• Interested in embedded systems and communication technologies
+• Enjoys problem-solving and system-level design
 
-Education
+EDUCATION
 
 Bachelor of Engineering in Electronics and Communication Engineering
 KPR Institute of Engineering and Technology
@@ -28,85 +36,94 @@ Chinmaya Vidyalaya, Attukal, Kerala
 Percentage: 70
 2020 – 2021
 
-Technical Skills
-
+TECHNICAL SKILLS
 Programming Languages
-Java
-Python
+• Java
+• Python
 
 Database
-MySQL
+• MySQL
 
 Web Technologies
-HTML
-CSS
+• HTML
+• CSS
 
 Electronics and Core Domains
-Digital Electronics
-Embedded Systems
-VLSI Design
+• Digital Electronics
+• Embedded Systems
+• VLSI Design
 
 Tools and Platforms
-Arduino IDE
-MATLAB
-Simulink
-MySQL Workbench
-CST Studio Suite
-Git and GitHub
+• Arduino IDE
+• MATLAB
+• Simulink
+• MySQL Workbench
+• CST Studio Suite
+• Git and GitHub
 
-Projects
+PROJECTS
 
 Wireless Air Pen for Real-Time Motion Visualization
-
-The Air Pen is a wireless system that uses an MPU6050 sensor and ESP8266 to capture hand movements and transmit them in real time for digital drawing. The project enables accurate and low-latency air writing without physical contact, making it suitable for educational and interactive applications.
-
-Duration: January 2025 – July 2026
+• Uses MPU6050 sensor for motion tracking
+• ESP8266 for wireless data transmission
+• Real-time and low-latency digital drawing
+• Contactless air writing system
+• Suitable for educational applications
+• Duration: January 2025 – July 2026
 
 Personal Portfolio Website
+• Built using HTML and CSS
+• Responsive and clean layout
+• Showcases skills and projects
 
-A responsive personal portfolio website developed using HTML and CSS to showcase my skills, projects, and academic profile.
-
-Internships
+INTERNSHIPS
 
 Smart Antenna Systems
-KPR Institute of Engineering and Technology, Coimbatore
-January 2025
 
-Learned antenna design and simulation using CST Studio Suite, including horn, dipole, and microstrip antennas.
+KPR Institute of Engineering and Technology, Coimbatore
+
+January 2025
+• Learned antenna design using CST Studio Suite
+• Designed horn antennas
+• Designed dipole antennas
+• Designed microstrip antennas
 
 VLSI Internship
+
 Elysium Technologies Private Limited, Madurai
+
 May 2025 – June 2025
+• Learned VLSI design flow
+• Studied CMOS logic fundamentals
+• Gained exposure to layout basics
 
-Gained knowledge of the VLSI design flow, including CMOS logic fundamentals and basic layout concepts.
+CERTIFICATIONS
 
-Certifications
+• Introduction to Industry 4.0 and Industrial Internet of Things – NPTEL
+• Microsensors and Nanosensors – NPTEL
+• MATLAB Onramp – MathWorks
+• Simulink Onramp – MathWorks
+• Data Structures in C – Great Learning
+• Python Programming – HackerRank
+• SQL using MySQL and Database Design – Scalar
+• VLSI – Maven Silicon
+• Effective Presentations – HP LIFE
 
-Introduction to Industry 4.0 and Industrial Internet of Things – NPTEL
-Microsensors and Nanosensors – NPTEL
-MATLAB Onramp – MathWorks
-Simulink Onramp – MathWorks
-Data Structures in C – Great Learning
-Python Programming – HackerRank
-SQL using MySQL and Database Design – Scalar
-VLSI – Maven Silicon
-Effective Presentations – HP LIFE
+PARTICIPATIONS
 
-Participations
+• VARNAM ’25 – Paper Presentation, KCT, Coimbatore
+• RIONZ ’25 – Paper Presentation, RVS, Coimbatore
 
-VARNAM ’25 – Paper Presentation, KCT, Coimbatore
-RIONZ ’25 – Paper Presentation, RVS, Coimbatore
+AREAS OF INTEREST
 
-Areas of Interest
+• Embedded Systems
+• VLSI Design
+• Database Management using MySQL
+• UI Design using Canva and Microsoft Office
+• Programming using Arduino IDE and MATLAB
 
-Embedded Systems
-VLSI Design
-Database Management using MySQL
-UI Design using Canva and Microsoft Office
-Programming using Arduino IDE and MATLAB
+LANGUAGES
 
-Languages
-
-English
-Tamil
-Malayalam
+• English
+• Tamil
+• Malayalam
