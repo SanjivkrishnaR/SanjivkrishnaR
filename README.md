@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Sanjiv+Krishna+R;⚡+ECE+Undergraduate+%40+KPRIET+2027;🔌+Embedded+Systems+%26+IoT+Enthusiast;🔬+VLSI+Design+Explorer;💻+Java+%26+Python+Developer;🚀+Building+Real-World+Solutions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Sanjiv+Krishna+R;⚡+ECE+Undergraduate+%40+KPRIET+2027;)](https://git.io/typing-svg)
 
 <br/>
 
