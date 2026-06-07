@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
+[![LinkedIn](www.linkedin.com/in/sanjiv-krishna-r-238588292)](#)
+[![Portfolio](https://sanjivkrishnar.github.io/MyProtfolio/)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjivkrishnaR)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjivkrishna05@gmail.com)
 [![Phone](https://img.shields.io/badge/+91%2090423%2044667-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
