@@ -31,9 +31,7 @@
 ## 🧑‍💻 About Me
 
 ```python
-###############################################
-#         SANJIV KRISHNA R — ECE UNDERGRAD   #
-###############################################
+
 
 class SanjivKrishnaR:
 
