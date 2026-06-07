@@ -157,6 +157,22 @@ class SanjivKrishnaR:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
+---
+
+### 🤟 Real-Time Sign Language Interpreter — Edge AI on Raspberry Pi
+![Edge AI](https://img.shields.io/badge/Edge%20AI-%23FF6F00?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-%230F9D58?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+> Edge AI-based Sign Language Interpreter running fully offline on Raspberry Pi 4 for real-time hand gesture recognition and speech generation.
+
+- ✅ Built using **MediaPipe**, **OpenCV**, and **Scikit-learn** on **Raspberry Pi 4** for real-time hand gesture recognition and speech output
+- ✅ Created and labeled a **custom gesture dataset**, extracted **21 hand landmarks (63 features)** for accurate sign classification
+- ✅ Trained a **Random Forest model** with **majority-voting inference** for stable, reliable predictions
+- ✅ Fully **offline deployment** — no cloud connectivity or GPU acceleration required
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
