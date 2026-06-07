@@ -37,9 +37,6 @@ class SanjivKrishnaR:
     college     =  "KPR Institute of Engineering and Technology, Coimbatore"
     batch       =  2027
     cgpa        =  7.31
-    location    =  "Dindigul, Tamil Nadu, India"
-    email       =  "sanjivkrishna05@gmail.com"
-    phone       =  "+91 90423 44667"
 
     objective   =  """
         ECE undergraduate (2027 batch) with hands-on experience in Java,
